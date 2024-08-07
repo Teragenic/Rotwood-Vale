@@ -133,6 +133,7 @@ GLOBAL_LIST_INIT(peasant_positions, list(
 GLOBAL_LIST_INIT(mercenary_positions, list(
 	"Grenzelhoft Mercenary",
 	"Desert Rider Mercenary",
+	"Sellsword",
 	"Veteran",
 ))
 
@@ -144,7 +145,7 @@ GLOBAL_LIST_INIT(youngfolk_positions, list(
 	"Churchling",
 	"Servant",
 	"Shophand",
-	"Orphan",
+	"Vagabond",
 ))
 
 GLOBAL_LIST_INIT(allmig_positions, list(
